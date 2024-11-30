@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JiryPaternoster
-- 👀 I’m interested in all kinds of Programming.
-- 🌱 I’m currently learning Android development with Kotlin.
-- 💞️ I’m looking to collaborate on Game Development.
+- 👋 Hi, I am @JiryPaternoster
+- 👀 I am interested in all kinds of Programming.
+- 🌱 I am currently learning Android development with Kotlin.
+- 💞️ I am looking to collaborate on Game Development.
 - 📫 How to reach me: Send me a DM.
 - ⚡ Fun fact: I launched my first game on the App and Play store when I was 16 years old.
